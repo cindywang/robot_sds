@@ -60,3 +60,43 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+########## system file ##########
+.DS_Store
+
+########## python ##########
+*.pyc
+
+########## c/c++ ##########
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran Module Files
+*.mod
+
+# Compiled Static Libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+########## java ##########
+
+
+########## PyCharm ##########
+*.idea/
+
+########## Xcode ##########
+*.xcodeproj/
+
